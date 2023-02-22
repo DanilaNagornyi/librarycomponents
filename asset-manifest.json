@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/librarycomponents/static/css/main.5883ff34.css",
+    "main.js": "/librarycomponents/static/js/main.05d7680c.js",
+    "index.html": "/librarycomponents/index.html",
+    "main.5883ff34.css.map": "/librarycomponents/static/css/main.5883ff34.css.map",
+    "main.05d7680c.js.map": "/librarycomponents/static/js/main.05d7680c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5883ff34.css",
+    "static/js/main.05d7680c.js"
+  ]
+}
